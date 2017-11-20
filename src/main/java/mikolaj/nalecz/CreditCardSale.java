@@ -1,7 +1,5 @@
 package mikolaj.nalecz;
 
-import java.time.LocalDateTime;
-
 public class CreditCardSale extends Sale {
 
     private String name;
@@ -21,5 +19,4 @@ public class CreditCardSale extends Sale {
         System.out.println(expiration);
         System.out.println(number);
     }
-
 }

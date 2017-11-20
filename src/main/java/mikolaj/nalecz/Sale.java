@@ -2,7 +2,7 @@ package mikolaj.nalecz;
 
 public class Sale {
 
-    //We shouldn't EVER user double for money
+    //Don't use Double for money
     private Double amount;
 
     public Sale(Double amount) {

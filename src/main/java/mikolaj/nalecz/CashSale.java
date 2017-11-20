@@ -10,5 +10,4 @@ public class CashSale extends Sale {
         super.saleDetails();
         System.out.println("(CASH)");
     }
-
 }
